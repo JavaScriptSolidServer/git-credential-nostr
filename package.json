@@ -1,6 +1,6 @@
 {
   "name": "git-credential-nostr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Git credential helper for Nostr (NIP-98) authentication",
   "type": "module",
   "bin": {
