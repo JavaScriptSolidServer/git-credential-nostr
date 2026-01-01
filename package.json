@@ -23,7 +23,7 @@
     "authentication"
   ],
   "author": "Melvin Carvalho",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "dependencies": {
     "nostr-tools": "^2.19.4"
   },

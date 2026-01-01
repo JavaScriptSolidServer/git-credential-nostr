@@ -135,4 +135,4 @@ This helper implements [NIP-98](https://nips.nostr.com/98) HTTP authentication, 
 
 ## License
 
-MIT
+AGPL-3.0-or-later
