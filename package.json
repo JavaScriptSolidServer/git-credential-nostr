@@ -1,0 +1,33 @@
+{
+  "name": "git-credential-nostr",
+  "version": "0.0.1",
+  "description": "Git credential helper for Nostr (NIP-98) authentication",
+  "type": "module",
+  "bin": {
+    "git-credential-nostr": "./bin/git-credential-nostr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptSolidServer/git-credential-nostr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JavaScriptSolidServer/git-credential-nostr/issues"
+  },
+  "homepage": "https://github.com/JavaScriptSolidServer/git-credential-nostr#readme",
+  "keywords": [
+    "git",
+    "credential",
+    "nostr",
+    "nip-98",
+    "solid",
+    "authentication"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "dependencies": {
+    "nostr-tools": "^2.19.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
